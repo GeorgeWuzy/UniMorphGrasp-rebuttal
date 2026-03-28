@@ -8,8 +8,8 @@ Additional Materials for <span style="color: darkgreen;">Uni</span><span style="
 <hr> 
 <br>
 
-<div style="font-weight: bold; text-align: center; margin-bottom: 15px;">
-1. Reactive Grasping in Dynamic Environments
+<div style="font-weight: bold; text-align: center; margin-bottom: 15px; font-size: 24px; color: blue;">
+Reactive Grasping in Dynamic Environments
 </div>
 
 <img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="40%">
@@ -21,8 +21,8 @@ Additional Materials for <span style="color: darkgreen;">Uni</span><span style="
 <hr>
 <br>
 
-<div style="font-weight: bold; text-align: center; margin-bottom: 15px;">
-2. Zero-Shot Generalization to Completely Unseen Hand Structures
+<div style="font-weight: bold; text-align: center; margin-bottom: 15px; font-size: 24px; color: blue;">
+Zero-Shot Generalization to Completely Unseen Hand Structures
 </div>
 
 <img src="figs/unseen.jpg" alt="Unseen Hands Figure" width="40%">
@@ -41,8 +41,8 @@ Additional Materials for <span style="color: darkgreen;">Uni</span><span style="
 <hr> 
 <br>
 
-<div style="font-weight: bold; text-align: center; margin-bottom: 15px;">
-3. Diverse Grasping Strategies in Practical Scenarios
+<div style="font-weight: bold; text-align: center; margin-bottom: 15px; font-size: 24px; color: blue;">
+Diverse Grasping Strategies in Practical Scenarios
 </div>
 
 <img src="figs/direction.gif" alt="Diverse Grasping Strategies" width="60%">
