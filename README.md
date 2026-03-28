@@ -11,8 +11,8 @@ Additional Materials for <br> <span style="color: darkgreen;">Uni</span><span st
 <div style="font-size: 24px; font-weight: bold;">Reactive Grasping in Dynamic Environments</div>
 <br>
 
-<img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="80%">
-<div style="width: 80%; margin: 10px auto; text-align: justify;">
+<img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="60%">
+<div style="width: 60%; margin: 10px auto; text-align: justify;">
 <b>Video 1: Real-time reactive grasping in dynamic environments with UniMorphGrasp.</b> In the scenario, while a human holds and continuously moves the target object, our framework generates updated grasp poses based on real-time point clouds captured by an RGB-D RealSense D435 camera. We execute the closed-loop experiments across four objects, including a hamster toy, a mustard bottle, a tomato soup can, and a foam brick.
 </div>
 
@@ -44,8 +44,8 @@ Additional Materials for <br> <span style="color: darkgreen;">Uni</span><span st
 <div style="font-size: 24px; font-weight: bold;">Diverse Grasping Strategies in Practical Scenarios</div>
 <br>
 
-<img src="figs/direction.gif" alt="Diverse Grasping Strategies" width="80%">
-<div style="width: 80%; margin: 10px auto; text-align: justify;">
+<img src="figs/direction.gif" alt="Diverse Grasping Strategies" width="60%">
+<div style="width: 60%; margin: 10px auto; text-align: justify;">
 <b>Video 3: Diverse grasping strategies executed in the real world.</b> To validate the method's versatility in practical scenarios, we execute the generated grasps on real-world objects using diverse initial poses and approaching directions, including grasping from the left, from above, and from the right.
 </div>
 
