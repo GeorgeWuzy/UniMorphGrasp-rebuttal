@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="font-size: 36px; font-weight: bold;">
-Additional Materials for <br> <span style="color: darkgreen;">Uni</span><span style="color: darkred;">Morph</span><span style="color: darkblue;">Grasp</span>
+Additional Materials for <span style="color: darkgreen;">Uni</span><span style="color: darkred;">Morph</span><span style="color: darkblue;">Grasp</span>
 </div>
 
 <br>
