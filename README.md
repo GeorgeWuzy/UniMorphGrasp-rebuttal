@@ -8,7 +8,7 @@ Additional Materials for <br> <span style="color: darkgreen;">Uni</span><span st
 <hr> 
 <br>
 
-<img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="60%">
+<img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="50%">
 <div style="width: 80%; margin: 10px auto; text-align: justify;">
 <b>Video 1: Real-time reactive grasping in dynamic environments with UniMorphGrasp.</b> In the scenario, while a human holds and continuously moves the target object, our framework generates updated grasp poses based on real-time point clouds captured by an RGB-D RealSense D435 camera. We execute the closed-loop experiments across four objects, including a hamster toy, a mustard bottle, a tomato soup can, and a foam brick.
 </div>
@@ -17,7 +17,7 @@ Additional Materials for <br> <span style="color: darkgreen;">Uni</span><span st
 <hr>
 <br>
 
-<img src="figs/unseen.jpg" alt="Unseen Hands Figure" width="60%">
+<img src="figs/unseen.jpg" alt="Unseen Hands Figure" width="50%">
 <div style="width: 80%; margin: 10px auto; text-align: justify;">
 <b>Figure 1: Qualitative results of zero-shot generalization to completely unseen hand structures.</b> We evaluated our pre-trained model on the Inspire hand (top) and the Leap hand (bottom) with distinct kinematic structures, which are completely unseen during training. The results further demonstrate our UniMorphGrasp's strong zero-shot generalization capabilities to novel morphologies without any retraining. Two viewing angles are presented for each grasp. 
 </div>
