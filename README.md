@@ -8,9 +8,9 @@ Additional Materials for <span style="color: darkgreen;">Uni</span><span style="
 <hr> 
 <br>
 
-<img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="50%">
+<img src="figs/closed_loop.gif" alt="Reactive Grasping in Dynamic Environments" width="40%">
 <div style="width: 80%; margin: 10px auto; text-align: justify;">
-<b>Video 1: Real-time reactive grasping in dynamic environments with UniMorphGrasp.</b> In the scenario, while a human holds and continuously moves the target object, our framework generates updated grasp poses based on real-time point clouds captured by an RGB-D RealSense D435 camera. We execute the closed-loop experiments across four objects, including a hamster toy, a mustard bottle, a tomato soup can, and a foam brick.
+<b>Video 1: Real-time closed-loop reactive grasping in dynamic environments with UniMorphGrasp.</b> In the scenario, while a human holds and continuously moves the target object, our framework generates updated grasp poses based on real-time point clouds captured by an RGB-D RealSense D435 camera. Notably, the robot's approaching motion from an initial position is also continuously guided by the generated poses. 
 </div>
 
 <br>
