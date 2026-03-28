@@ -17,7 +17,7 @@ Additional Materials for <span style="color: darkgreen;">Uni</span><span style="
 <hr>
 <br>
 
-<img src="figs/unseen.jpg" alt="Unseen Hands Figure" width="50%">
+<img src="figs/unseen.jpg" alt="Unseen Hands Figure" width="40%">
 <div style="width: 80%; margin: 10px auto; text-align: justify;">
 <b>Figure 1: Qualitative results of zero-shot generalization to completely unseen hand structures.</b> We evaluated our pre-trained model on the Inspire hand (top) and the Leap hand (bottom) with distinct kinematic structures, which are completely unseen during training. The results further demonstrate our UniMorphGrasp's strong zero-shot generalization capabilities to novel morphologies without any retraining. Two viewing angles are presented for each grasp. 
 </div>
